@@ -1,0 +1,53 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/jbnou/Documents/Third Year/Software Quality/BinaryCalculator/target/classes;C:/Users/jbnou/Documents/Third Year/Software Quality/BinaryCalculator/target/test-classes;C:/Users/jbnou/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/jbnou/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/jbnou/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/jbnou/Documents/Third Year/Software Quality/BinaryCalculator/src/test/java;C:/Users/jbnou/Documents/Third Year/Software Quality/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jbnou/Documents/Third Year/Software Quality/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/jbnou/Documents/Third Year/Software Quality/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/Users/jbnou/Documents/Third Year/Software Quality/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\classes = 1737480653649
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\test-classes = 1737480653749
+C:\Users\jbnou\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1737478453608
+C:\Users\jbnou\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1737478453626
+C:\Users\jbnou\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar = 1737478453660
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\src\test\java = 1737479512530
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\generated-test-sources\test-annotations = 1737480653686
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1737480660328
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1737480660331
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\element-list = 1737480660275
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\help-doc.html = 1737480660368
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\index-all.html = 1737480660353
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\index.html = 1737480660359
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1737480660337
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1737480660332
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1737480660317
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1737480660333
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\search.html = 1737480660356
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1737480660337
+C:\Users\jbnou\Documents\Third Year\Software Quality\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1737480660336
